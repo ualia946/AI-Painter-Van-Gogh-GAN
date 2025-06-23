@@ -11,9 +11,9 @@ Tras un proceso de optimización y entrenamiento, el modelo es capaz de generar 
 **Mejora a lo largo del tiempo (v2):**
 Gift
 
-| Época 1 | Época 500 | Época 1500 |
+| Época 1 | Época 500 | Época 1024 |
 | :---: | :---: | :---: |
-| ![Época 1](results/v2/generated_images/image_at_epoch_0001.png) | ![Época 500](results/v2/generated_images/image_at_epoch_0499.png) | ![Época 1500](results/v2/generated_images/image_at_epoch_1024.png) |
+| ![Época 1](results/v2/generated_images/image_at_epoch_0001.png) | ![Época 500](results/v2/generated_images/image_at_epoch_0499.png) | ![Época 1024](results/v2/generated_images/image_at_epoch_1024.png) |
 
 ---
 
