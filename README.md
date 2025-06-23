@@ -1,6 +1,6 @@
 # 🎨 Van-Gogh-GAN: Generador de Arte con Redes Antagónicas
 
-![Imagen del resultado final v2](results/v2/generated_images/image_at_epoch_1500.png)
+![Imagen del resultado final v2](results/v2/generated_images/image_at_epoch_1024.png)
 
 Este proyecto es una implementación de una Red Generativa Antagónica (GAN), específicamente una DCGAN (Deep Convolutional GAN), entrenada para generar imágenes al estilo del pintor Vincent van Gogh. El objetivo principal no era solo construir el modelo, sino también entender, diagnosticar y mejorar el proceso de entrenamiento a través de la experimentación iterativa.
 
@@ -13,7 +13,7 @@ Gift
 
 | Época 1 | Época 500 | Época 1500 |
 | :---: | :---: | :---: |
-| ![Época 1](results/v2/generated_images/image_at_epoch_0001.png) | ![Época 500](results/v2/generated_images/image_at_epoch_0500.png) | ![Época 1500](results/v2/generated_images/image_at_epoch_1500.png) |
+| ![Época 1](results/v2/generated_images/image_at_epoch_0001.png) | ![Época 500](results/v2/generated_images/image_at_epoch_0499.png) | ![Época 1500](results/v2/generated_images/image_at_epoch_1024.png) |
 
 ---
 
