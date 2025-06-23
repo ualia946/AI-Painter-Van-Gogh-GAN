@@ -9,7 +9,7 @@ Este proyecto es una implementación de una Red Generativa Antagónica (GAN), es
 Tras un proceso de optimización y entrenamiento, el modelo es capaz de generar imágenes abstractas que capturan la esencia del estilo de Van Gogh, como sus características pinceladas y su paleta de colores.
 
 **Mejora a lo largo del tiempo (v2):**
-Gift
+![Gif imágenes v2](results/v2/van_gogh_evolution.gif)
 
 | Época 1 | Época 500 | Época 1024 |
 | :---: | :---: | :---: |
