@@ -67,7 +67,7 @@ Para solucionar los problemas de la v1 y equilibrar la competición, se implemen
 ### Instalación
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/ia946/Van-Gogh-GAN.git](https://github.com/tu-usuario/Van-Gogh-GAN.git)
+    git clone [https://github.com/ia946/Van-Gogh-GAN.git]
     ```
 2.  Navega a la carpeta del proyecto:
     ```bash
