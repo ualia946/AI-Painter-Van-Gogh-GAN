@@ -1,0 +1,27 @@
+# Ignorar carpetas de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar carpetas de entornos virtuales
+venv/
+env/
+.env/
+.venv/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar carpetas de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar carpetas con datasets o archivos grandes.
+/dataset/
+/results/v1/gan_images_v1/
+/results/v2/gan_images_v2/
