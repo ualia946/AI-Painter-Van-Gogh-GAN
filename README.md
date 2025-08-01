@@ -95,7 +95,7 @@ El siguiente paso natural para este proyecto es evolucionar de un generador a pa
 
 ## 👤 Autor
 * **Ivelin Apostolov**
-* **LinkedIn:** `[]`
+* **LinkedIn:** `[https://www.linkedin.com/in/ivelin-apostolov-a7a48a359/]`
 * **GitHub:** `[https://github.com/ualia946]`
 
 ---
